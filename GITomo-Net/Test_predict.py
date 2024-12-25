@@ -28,7 +28,7 @@ import h5py
 
 # loading
 import datetime
-model_path = "/data1/lch/Geometry-Independent-Network/PaperToGithub/GITomo-Net/Model_save/GITomo-Simdata-Trained-model/Ada-LISTA2024-03-03-17-06-30.pt"
+model_path = "/data1/lch/Geometry-Independent-Network/PaperToGithub/GITomo-Net/Model_save/GITomo-Simdata-Trained-model/GITomo_Net_trained_modelpara.pt"
 import hdf5storage
 
 path_test = '/data1/lch/Geometry-Independent-Network/PaperToGithub/GITomo-Net/Matlab2Net/Data_and_para_Lbd.mat'
